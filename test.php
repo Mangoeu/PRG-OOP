@@ -32,7 +32,7 @@ $trpaslici = [
     ]
 ];
 
-$hlavni_nadpis = "Trpaslici.cz";
+$hlavni_nadpis = "Trpaslici.sk";
 ?>
 
 <!DOCTYPE html>
@@ -40,7 +40,7 @@ $hlavni_nadpis = "Trpaslici.cz";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trpasclisi.cz | Prodej zahradních trpaslíků</title>
+    <title>Trpasclisi.sk | Prodej zahradních trpaslíků všech druhů a barev</title>
     <link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     
     <style>
