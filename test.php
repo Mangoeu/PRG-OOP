@@ -5,7 +5,7 @@ $trpaslici = [
     [
         "nazev" => "Trpaslík KLASIK",
         "popis" => "Stará dobrá klasika. Červená čepice, modrý kabát, nulový respekt.",
-        "cena" => 299,
+        "cena" => 399,
         "img_color" => "#e74c3c", // Barva zástupného obrázku
         "tag" => "BESTSELLER"
     ],
