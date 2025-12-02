@@ -9,6 +9,15 @@ $trpaslici = [
         "img_color" => "#e74c3c", // Barva zástupného obrázku
         "tag" => "BESTSELLER"
     ],
+
+    [
+        "nazev" => "Trpaslík TERMINATOR",
+        "popis" => "I'll be back. Zahradní škůdci nemají šanci.",
+        "cena" => 999,
+        "img_color" => "#000000",
+        "tag" => "LIMITED"
+    ],
+    
     [
         "nazev" => "Trpaslík RAMBO",
         "popis" => "Tento trpaslík nehlídá zahradu. On ji brání. Kulomet není součástí balení.",
