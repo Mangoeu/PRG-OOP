@@ -10,6 +10,7 @@ class cars {
         $this->name = $name;  
         $this->spotreba = $spotreba;
         $this->nadrz = $nadrz;
+        
   }
 
   function get_name() {
